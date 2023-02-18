@@ -1,0 +1,82 @@
+[
+    {
+      "title": "The “color:red” in CSS can be known as",
+      "answer_1": "Value",
+      "answer_2": "Declaration",
+      "answer_3": "Selector",
+      "answer_4": "Rule",
+      "right_answer": "Declaration"
+    },
+    {
+      "title": "In an HTML page, which of these tags is used for embedding CSS",
+      "answer_1": "<!DOCTYPE html>",
+      "answer_2": "<css>",
+      "answer_3": "<style>",
+      "answer_4": "<script>",
+      "right_answer": "<style>"
+    },
+    {
+      "title": "Which of these functions is the 2D transformation in the matrix format",
+      "answer_1": "perspective",
+      "answer_2": "matrix3d()",
+      "answer_3": "matrix2d()",
+      "answer_4": "matrix()",
+      "right_answer": "matrix()"
+    },
+    {
+      "title": "Which one of these is NOT an appropriate value for the font-variant property",
+      "answer_1": "small-caps",
+      "answer_2": "large-caps",
+      "answer_3": "default",
+      "answer_4": "inherit",
+      "right_answer": "large-caps"
+    },
+    {
+      "title": "The CSS property that is equivalent to the align attribute is",
+      "answer_1": "text-align",
+      "answer_2": "float",
+      "answer_3": "text-align & float",
+      "answer_4": "centre",
+      "right_answer": "float"
+    },
+    {
+      "title": "The screen media type can be used with",
+      "answer_1": "television-type devices",
+      "answer_2": "computer devices",
+      "answer_3": "handheld screens",
+      "answer_4": "all devices",
+      "right_answer": "computer devices"
+    },
+    {
+      "title": "Which one is NOT the audio element’s attribute",
+      "answer_1": "controls",
+      "answer_2": "check",
+      "answer_3": "loop",
+      "answer_4": "src",
+      "right_answer": "check"
+    },
+    {
+      "title": "Which CSS3 Color Feature could be used as a macro for any current color",
+      "answer_1": "HSLa Color",
+      "answer_2": "RGB Color",
+      "answer_3": "CurrentColor keyword",
+      "answer_4": "HSL Color",
+      "right_answer": "CurrentColor keyword"
+    },
+    {
+      "title": "The CSS property that is primarily used for giving a line over a text would be",
+      "answer_1": "text-decoration: none",
+      "answer_2": "text-decoration: line-through",
+      "answer_3": "text-decoration: underline",
+      "answer_4": "text-decoration: overline",
+      "right_answer": "text-decoration: overline"
+    },
+    {
+      "title": "Which of them is a CSS framework",
+      "answer_1": "React",
+      "answer_2": "Vue",
+      "answer_3": "Bootstrap",
+      "answer_4": "NodeJs",
+      "right_answer": "Bootstrap"
+    }
+  ]

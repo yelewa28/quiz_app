@@ -1,0 +1,82 @@
+[
+    {
+      "title": "The @@NESTLEVEL function would fall under which of these categories",
+      "answer_1": "Data Functions of Date and Time",
+      "answer_2": "Mathematical Functions",
+      "answer_3": "Cursor Functions",
+      "answer_4": "Configuration Functions",
+      "right_answer": "Configuration Functions"
+    },
+    {
+      "title": "What are all the identifiers in an XQuery known as",
+      "answer_1": "QFor",
+      "answer_2": "Qidt",
+      "answer_3": "QName",
+      "answer_4": "Name",
+      "right_answer": "QName"
+    },
+    {
+      "title": "Which of these databases must be regularly backed up",
+      "answer_1": "TEMPDB",
+      "answer_2": "Master",
+      "answer_3": "Pub",
+      "answer_4": "Adventure Works",
+      "right_answer": "Master"
+    },
+    {
+      "title": "Which of these statements can we check for Errors",
+      "answer_1": "DELETE",
+      "answer_2": "INSERT",
+      "answer_3": "DROP",
+      "answer_4": "CREATE",
+      "right_answer": "INSERT"
+    },
+    {
+      "title": "The Server in SQL can be applied AFTER trigger to",
+      "answer_1": "Function",
+      "answer_2": "Views and Table",
+      "answer_3": "Table",
+      "answer_4": "Views",
+      "right_answer": "Views and Table"
+    },
+    {
+      "title": "Which of these with SQL Server refers to an enumeration for ADO.net",
+      "answer_1": "SqlNotification",
+      "answer_2": "SqlInfo",
+      "answer_3": "SqlBulkCopyOptions",
+      "answer_4": "All of the above",
+      "right_answer": "SqlBulkCopyOptions"
+    },
+    {
+      "title": "The database happens to be read-only in which of these modes",
+      "answer_1": "Restore mode",
+      "answer_2": "Stand by",
+      "answer_3": "Read-only",
+      "answer_4": "All of the above",
+      "right_answer": "Stand by"
+    },
+    {
+      "title": "The Packages of SQL Server Extended Events consist of",
+      "answer_1": "Predicates",
+      "answer_2": "Types",
+      "answer_3": "Events",
+      "answer_4": "All of the above",
+      "right_answer": "All of the above"
+    },
+    {
+      "title": "Which of these backups are taken in full recovery models only or in bulk",
+      "answer_1": "Active",
+      "answer_2": "Log",
+      "answer_3": "Replica",
+      "answer_4": "Passive",
+      "right_answer": "Log"
+    },
+    {
+      "title": "Which of these would hold some set of temporary data",
+      "answer_1": "Msdb",
+      "answer_2": "Tempdb",
+      "answer_3": "Master",
+      "answer_4": "Northwind",
+      "right_answer": "Tempdb"
+    }
+  ]

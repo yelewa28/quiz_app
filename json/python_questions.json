@@ -1,0 +1,82 @@
+[
+    {
+      "title": "Find the invalid variable among the following",
+      "answer_1": "my_string_1",
+      "answer_2": "1st_string",
+      "answer_3": "_",
+      "answer_4": "foo",
+      "right_answer": "1st_string"
+    },
+    {
+      "title": "Which one of these is incorrect",
+      "answer_1": "float(‘nan’)",
+      "answer_2": "float(‘inf’)",
+      "answer_3": "float(’12+34′)",
+      "answer_4": "float(’56’+’78’)",
+      "right_answer": "float(’12+34′)"
+    },
+    {
+      "title": "The return value for trunc() would be",
+      "answer_1": "bool",
+      "answer_2": "float",
+      "answer_3": "int",
+      "answer_4": "None",
+      "right_answer": "int"
+    },
+    {
+      "title": "Which arithmetic operators can we NOT use with strings",
+      "answer_1": "+",
+      "answer_2": "–",
+      "answer_3": "*",
+      "answer_4": "All of the above",
+      "right_answer": "–"
+    },
+    {
+      "title": "Which function removes a set’s first and the last element from a list",
+      "answer_1": "dispose",
+      "answer_2": "discard",
+      "answer_3": "remove",
+      "answer_4": "pop",
+      "right_answer": "pop"
+    },
+    {
+      "title": "Which of these functions can NOT be defined under the sys module",
+      "answer_1": "sys.argv",
+      "answer_2": "sys.readline",
+      "answer_3": "sys.path",
+      "answer_4": "sys.platform",
+      "right_answer": "sys.readline"
+    },
+    {
+      "title": "Which function doesn’t accept any argument",
+      "answer_1": "re.compile",
+      "answer_2": "re.findall",
+      "answer_3": "re.match",
+      "answer_4": "re.purge",
+      "right_answer": "re.purge"
+    },
+    {
+      "title": "In Python, the primary use of the tell() method is that",
+      "answer_1": "within the file, it tells the end position",
+      "answer_2": "within the file, it tells the current position",
+      "answer_3": "it tells us if the file is opened",
+      "answer_4": "None of the above",
+      "right_answer": "within the file, it tells the current position"
+    },
+    {
+      "title": "The hasattr(obj,name) is used to",
+      "answer_1": "set an attribute",
+      "answer_2": "check if any specific attribute exists",
+      "answer_3": "access the object’s attribute",
+      "answer_4": "delete an attribute",
+      "right_answer": "check if any specific attribute exists"
+    },
+    {
+      "title": "In Python, find which one isn’t an exception handling keyword",
+      "answer_1": "finally",
+      "answer_2": "try",
+      "answer_3": "accept",
+      "answer_4": "except",
+      "right_answer": "accept"
+    }
+  ]

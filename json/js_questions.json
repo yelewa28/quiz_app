@@ -1,0 +1,82 @@
+[
+    {
+      "title": "The ” var” and “function” are known as",
+      "answer_1": "Data types",
+      "answer_2": "Keywords",
+      "answer_3": "Prototypes",
+      "answer_4": "Declaration statements",
+      "right_answer": "Declaration statements"
+    },
+    {
+      "title": "Which of these is the correct way in which we can call the JavaScript code",
+      "answer_1": "Triggering Event",
+      "answer_2": "Preprocessor",
+      "answer_3": "Function/Method",
+      "answer_4": "RMI",
+      "right_answer": "Function/Method"
+    },
+    {
+      "title": "In JavaScript, what do we use for calling the expression for function definition",
+      "answer_1": "Function prototype",
+      "answer_2": "Function literal",
+      "answer_3": "Function declaration",
+      "answer_4": "Function calling",
+      "right_answer": "Function literal"
+    },
+    {
+      "title": "Which of these is used in JavaScript for calling a method or a function",
+      "answer_1": "Functional Expression",
+      "answer_2": "Property Access Expression",
+      "answer_3": "Primary Expression",
+      "answer_4": "Invocation Expression",
+      "right_answer": "Invocation Expression"
+    },
+    {
+      "title": "Which of these operators are used for checking if a specific property exists",
+      "answer_1": "within",
+      "answer_2": "in",
+      "answer_3": "exist",
+      "answer_4": "exists",
+      "right_answer": "in"
+    },
+    {
+      "title": "Which of these is not a keyword",
+      "answer_1": "debugger",
+      "answer_2": "use strict",
+      "answer_3": "with",
+      "answer_4": "if",
+      "right_answer": "use strict"
+    },
+    {
+      "title": "Which of these symbols is used to create comments in JavaScript",
+      "answer_1": "\\\\",
+      "answer_2": "//",
+      "answer_3": "\\* */",
+      "answer_4": "\\* *\\",
+      "right_answer": "//"
+    },
+    {
+      "title": "Which of these methods or operators are used for identifying an array",
+      "answer_1": "Typeof",
+      "answer_2": "===",
+      "answer_3": "==",
+      "answer_4": "isarrayType()",
+      "right_answer": "isarrayType()"
+    },
+    {
+      "title": "Which of these codes is equivalent to the code given below [a.x(g,h);]",
+      "answer_1": "x (g) &&a.x (h);",
+      "answer_2": "a [ “x” ] ( g , h );",
+      "answer_3": "x( g&&h );",
+      "answer_4": "a (x )[ “g” , “h” ];",
+      "right_answer": "a [ “x” ] ( g , h );"
+    },
+    {
+      "title": "Which of these keywords is used to define various functions in JavaScript",
+      "answer_1": "init",
+      "answer_2": "main",
+      "answer_3": "function",
+      "answer_4": "Void",
+      "right_answer": "function"
+    }
+  ]

@@ -1,0 +1,82 @@
+[
+    {
+      "title": "In PHP, the variable name starts with",
+      "answer_1": "# (Hash)",
+      "answer_2": "& (Ampersand)",
+      "answer_3": "$ (Dollar)",
+      "answer_4": "! (Exclamation)",
+      "right_answer": "$ (Dollar)"
+    },
+    {
+      "title": "In PHP, out of the following, which one is NOT a variable scope",
+      "answer_1": "Global",
+      "answer_2": "Static",
+      "answer_3": "Local",
+      "answer_4": "Extern",
+      "right_answer": "Extern"
+    },
+    {
+      "title": "In PHP, which of these is the use of the strlen() function",
+      "answer_1": "It returns the string’s type",
+      "answer_2": "It returns the string’s length",
+      "answer_3": "It returns the string’s value",
+      "answer_4": "It returns string’s both type and value",
+      "right_answer": "It returns the string’s length"
+    },
+    {
+      "title": "In PHP, which of these starts with a double underscore (__)",
+      "answer_1": "Default constants",
+      "answer_2": "Magic constants",
+      "answer_3": "User-defined constants",
+      "answer_4": "Inbuilt constants",
+      "right_answer": "Magic constants"
+    },
+    {
+      "title": "In PHP, which of these is used for concatenation",
+      "answer_1": "* (Asterisk)",
+      "answer_2": "+ (plus)",
+      "answer_3": "append()",
+      "answer_4": ". (dot)",
+      "right_answer": ". (dot)"
+    },
+    {
+      "title": "In PHP, which of these is the correct way in which we can create a function",
+      "answer_1": "New_function myFunction()",
+      "answer_2": "Function myFunction()",
+      "answer_3": "Create myFunction()",
+      "answer_4": "None of the above",
+      "right_answer": "Function myFunction()"
+    },
+    {
+      "title": "In PHP, which of these is the correct way in which we can define a variable",
+      "answer_1": "$variable name as value;",
+      "answer_2": "$variable_name = value",
+      "answer_3": "$variable_name = value;",
+      "answer_4": "$variable name = value;",
+      "right_answer": "$variable_name = value;"
+    },
+    {
+      "title": "In PHP, which of these functions is used to find various files",
+      "answer_1": "fold()",
+      "answer_2": "file()",
+      "answer_3": "glob()",
+      "answer_4": "None of the above",
+      "right_answer": "glob()"
+    },
+    {
+      "title": "Out of the following functions, which one converts a string to all uppercases",
+      "answer_1": "struppercase()",
+      "answer_2": "strtoupper()",
+      "answer_3": "uppercase()",
+      "answer_4": "upper()",
+      "right_answer": "strtoupper()"
+    },
+    {
+      "title": "In PHP, what is the correct way in which we can print “Hello World”",
+      "answer_1": "write(“Hello World”);",
+      "answer_2": "echo “Hello World”;",
+      "answer_3": "“Hello World”;",
+      "answer_4": "None of the above",
+      "right_answer": "echo “Hello World”;"
+    }
+  ]

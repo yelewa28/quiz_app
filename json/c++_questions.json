@@ -1,0 +1,82 @@
+[
+    {
+      "title": "Which of these types is not provided by C but is provided by C++",
+      "answer_1": "double",
+      "answer_2": "float",
+      "answer_3": "bool",
+      "answer_4": "int",
+      "right_answer": "bool"
+    },
+    {
+      "title": "Which concept do we use for the implementation of late binding",
+      "answer_1": "Static Functions",
+      "answer_2": "Constant Functions",
+      "answer_3": "Operator Functions",
+      "answer_4": "Virtual Functions",
+      "right_answer": "Virtual Functions"
+    },
+    {
+      "title": "Which of these won’t return any value",
+      "answer_1": "null",
+      "answer_2": "void",
+      "answer_3": "free",
+      "answer_4": "empty",
+      "right_answer": "void"
+    },
+    {
+      "title": "Which function do we use for checking if a character is a space or a tab",
+      "answer_1": "isdigit()",
+      "answer_2": "isblank()",
+      "answer_3": "isalnum()",
+      "answer_4": "isalpha()",
+      "right_answer": "isblank()"
+    },
+    {
+      "title": "Which of these keywords do we use for the declaration of the friend function",
+      "answer_1": "myfriend",
+      "answer_2": "classfriend",
+      "answer_3": "friend",
+      "answer_4": "newfriend",
+      "right_answer": "friend"
+    },
+    {
+      "title": "What is used for dereferencing",
+      "answer_1": "pointer without asterix",
+      "answer_2": "value with asterix",
+      "answer_3": "value without asterix",
+      "answer_4": "pointer with asterix",
+      "right_answer": "pointer with asterix"
+    },
+    {
+      "title": "What does polymorphism stand for",
+      "answer_1": "a class that has four forms",
+      "answer_2": "a class that has two forms",
+      "answer_3": "a class that has only a single form",
+      "answer_4": "a class that has many forms",
+      "right_answer": "a class that has many forms"
+    },
+    {
+      "title": "What do we use in order to throw an exception",
+      "answer_1": "try",
+      "answer_2": "throw",
+      "answer_3": "handler",
+      "answer_4": "catch",
+      "right_answer": "throw"
+    },
+    {
+      "title": "We can apply RTTI to which of the class types",
+      "answer_1": "Encapsulation",
+      "answer_2": "Polymorphic",
+      "answer_3": "Static",
+      "answer_4": "Derived",
+      "right_answer": "Polymorphic"
+    },
+    {
+      "title": "In the locale object, which of these objects’ information is loaded",
+      "answer_1": "secant object",
+      "answer_2": "facet object",
+      "answer_3": "instead object",
+      "answer_4": "both instead & facet objects",
+      "right_answer": "facet object"
+    }
+  ]

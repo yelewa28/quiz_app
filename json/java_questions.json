@@ -1,0 +1,82 @@
+[
+    {
+      "title": "Which of the following is used for session migration",
+      "answer_1": "URL rewriting",
+      "answer_2": "Persisting the session in database",
+      "answer_3": "Creating new database connection",
+      "answer_4": "Kill session from multiple sessions",
+      "right_answer": "Persisting the session in database"
+    },
+    {
+      "title": "Which of the below is not a session tracking method",
+      "answer_1": "URL rewriting",
+      "answer_2": "History",
+      "answer_3": "Cookies",
+      "answer_4": "SSL sessions",
+      "right_answer": "History"
+    },
+    {
+      "title": "Which of the following is stored at the client side",
+      "answer_1": "URL rewriting",
+      "answer_2": "Hidden form fields",
+      "answer_3": "SSL sessions",
+      "answer_4": "Cookies",
+      "right_answer": "Cookies"
+    },
+    {
+      "title": "Which of the following leads to high network traffic",
+      "answer_1": "Hidden form fields",
+      "answer_2": "SSL sessions",
+      "answer_3": "Cookies",
+      "answer_4": "URL rewriting",
+      "right_answer": "URL rewriting"
+    },
+    {
+      "title": "What is the maximum size of cookie",
+      "answer_1": "4 bytes",
+      "answer_2": "4 KB",
+      "answer_3": "40 KB",
+      "answer_4": "4 MB",
+      "right_answer": "4 KB"
+    },
+    {
+      "title": "Which object is used by spring for authentication",
+      "answer_1": "ContextHolder",
+      "answer_2": "SecurityHolder",
+      "answer_3": "AnonymousHolder",
+      "answer_4": "SecurityContextHolder",
+      "right_answer": "SecurityContextHolder"
+    },
+    {
+      "title": "Which tag should be used to pass information from JSP to included JSP",
+      "answer_1": "Using <%jsp:param> tag",
+      "answer_2": "Using <%jsp:import> tag",
+      "answer_3": "Using <%jsp:page> tag",
+      "answer_4": "Using <%jsp:useBean> tag",
+      "right_answer": "Using <%jsp:page> tag"
+    },
+    {
+      "title": "Which one is the correct order of phases in the JSP life cycle",
+      "answer_1": "Initialization, Cleanup, Compilation, Execution",
+      "answer_2": "Initialization, Compilation, Cleanup, Execution",
+      "answer_3": "Compilation, Initialization, Execution, Cleanup",
+      "answer_4": "Cleanup, Compilation, Initialization, Execution",
+      "right_answer": "Compilation, Initialization, Execution, Cleanup"
+    },
+    {
+      "title": "Which one of the following is correct for directive in JSP",
+      "answer_1": "<%!directive%>",
+      "answer_2": "<%directive%>",
+      "answer_3": "<%=directive%>",
+      "answer_4": "<%@directive%>",
+      "right_answer": "<%@directive%>"
+    },
+    {
+      "title": "Java code is embedded under which tag in JSP",
+      "answer_1": "Declaration",
+      "answer_2": "Scriptlet",
+      "answer_3": "Expression",
+      "answer_4": "Comment",
+      "right_answer": "Scriptlet"
+    }
+  ]
