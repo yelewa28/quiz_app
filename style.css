@@ -280,4 +280,17 @@ footer {
         margin-top: 15px;
         text-align: center;
     }
+    .quiz_app .quiz_info {
+        flex-direction: column;
+    }
+    .quiz_app .quiz_info .category {
+        margin-bottom: 10px;
+    }
+    .result_box {
+        flex-direction: column;
+    }
+    .quiz_app .the-results .result_box .title,
+    .quiz_app .the-results .result_box .right_answer {
+        width: 100%;
+    }
 }
